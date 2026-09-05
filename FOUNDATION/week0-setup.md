@@ -48,4 +48,39 @@ bash
 - One thing I'm excited to learn during the bootcamp
 Then committed and pushed it:
 
-   
+   ![alt text](<images/git push.PNG>)
+
+
+### Tools & Technologies Used
+ 
+| Tool | Purpose |
+|------|---------|
+| WSL2 | Linux environment on Windows |
+| Ubuntu | Linux distribution |
+| Git | Version control |
+| GitHub | Remote repository hosting |
+| VS Code | Code editor |
+
+
+### Why This Repository Exists
+ 
+DevOps is a hands-on discipline, and the best way to learn it is by doing it in public. This repo serves as:
+- A **portfolio** recruiters and hiring managers can review
+- A **learning log** to track my progress week over week
+- A **reference** I can look back on as the tools and setup get more advanced
+
+
+### What's Next
+ 
+Future weeks will build on this foundation and will include topics like:
+- Linux fundamentals and shell scripting
+- Docker and containerization
+- CI/CD pipelines
+- Cloud infrastructure (AWS)
+- Infrastructure as Code (Terraform)
+- Monitoring and logging
+
+Each week's project will be documented in its own file or folder, following the same format as Week 0.
+
+# THANK YOU !!!
+
