@@ -48,6 +48,4 @@ bash
 - One thing I'm excited to learn during the bootcamp
 Then committed and pushed it:
 
-   git add .
-   git commit -m "Week 0: setup complete"
-   git push
+   
